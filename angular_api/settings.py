@@ -42,7 +42,8 @@ INSTALLED_APPS = [
 	'drf_yasg',
 	'corsheaders',
 	'authentication',
-	'user_profile'
+	'user_profile',
+	'welcome'
 ]
 
 MIDDLEWARE = [
