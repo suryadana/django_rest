@@ -5,3 +5,6 @@ django-filter
 drf_yasg
 django-cors-headers
 psycopg2
+django-debug-toolbar
+gunicorn
+whitenoise
